@@ -5,6 +5,7 @@
     "type": "git",
     "url": "git+https://github.com/impelsystems/react-native-pin-view.git"
   },
+  "private": false,
   "description": "React Native Pin View Component for Protection",
   "keywords": [
     "react-native",
