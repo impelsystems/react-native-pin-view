@@ -1,6 +1,6 @@
 {
   "name": "@impelsys/react-native-pin-view",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/impelsystems/react-native-pin-view.git"
@@ -23,7 +23,7 @@
     "PinView"
   ],
   "peerDependencies": {
-    "react-native": "^0.69.5"
+    "react-native": "^0.69.1"
   },
   "main": "index.js",
   "types": "react-native-pin-view.d.ts",
